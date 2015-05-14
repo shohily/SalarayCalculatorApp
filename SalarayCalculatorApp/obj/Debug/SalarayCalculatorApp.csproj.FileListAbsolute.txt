@@ -1,0 +1,9 @@
+G:\shohily-c# code\SalarayCalculatorApp\SalarayCalculatorApp\bin\Debug\SalarayCalculatorApp.exe.config
+G:\shohily-c# code\SalarayCalculatorApp\SalarayCalculatorApp\bin\Debug\SalarayCalculatorApp.exe
+G:\shohily-c# code\SalarayCalculatorApp\SalarayCalculatorApp\bin\Debug\SalarayCalculatorApp.pdb
+G:\shohily-c# code\SalarayCalculatorApp\SalarayCalculatorApp\obj\Debug\SalarayCalculatorApp.csprojResolveAssemblyReference.cache
+G:\shohily-c# code\SalarayCalculatorApp\SalarayCalculatorApp\obj\Debug\SalarayCalculatorApp.Form1.resources
+G:\shohily-c# code\SalarayCalculatorApp\SalarayCalculatorApp\obj\Debug\SalarayCalculatorApp.Properties.Resources.resources
+G:\shohily-c# code\SalarayCalculatorApp\SalarayCalculatorApp\obj\Debug\SalarayCalculatorApp.csproj.GenerateResource.Cache
+G:\shohily-c# code\SalarayCalculatorApp\SalarayCalculatorApp\obj\Debug\SalarayCalculatorApp.exe
+G:\shohily-c# code\SalarayCalculatorApp\SalarayCalculatorApp\obj\Debug\SalarayCalculatorApp.pdb
